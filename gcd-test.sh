@@ -4,7 +4,7 @@ tmp=/tmp/$$
 echo "引数を2つ指定してください" > $tmp-test1
 echo "引数には自然数を入力してください" > $tmp-test2
 echo "最大公約数は2です" > $tmp-test3
-echo "最大公約数は179です" > $tmp-test4
+echo "最大公約数はで8592です" > $tmp-test4
 
 ERROR_EXIT () {
   echo "$1" >&2
